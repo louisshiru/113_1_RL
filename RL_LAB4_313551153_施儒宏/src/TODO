@@ -1,0 +1,15 @@
+- 
+  [v] nohup python td3_agent_CarRacing.py > td3-origin.log 2>&1 &
+- 
+  [v] nohup python td3-target_policy_smoothing.py > td3-disable_smoothing 2>&1 &
+- 
+  [v] nohup python td3-impact_of_twin_qNetwork.py > td3-twin_2_single 2>&1 &
+-
+  [v] nohup python td3-action_noise_injection.py > td3-noise_decrease 2>&1 &
+- 
+  [v] nohup python td3-delay_policy_update_mechanism.py > td3-delay_8_policy 2>&1 &
+  [v] nohup python td3-delay_policy_update_mechanism.py > td3-delay_4_policy 2>&1 &
+-
+  [v] nohup python td3-reward_function_design.py > td3-reward_shaping 2>&1 &
+-
+  [ ] continue training. `nohup python td3-reward_function_design.py > td3-reward_shaping-more-episode 2>&1 &`

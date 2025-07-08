@@ -1,0 +1,603 @@
+nohup: ignoring input
+/home/louis/miniconda3/envs/RL/lib/python3.9/site-packages/gym/utils/passive_env_checker.py:233: DeprecationWarning: `np.bool8` is a deprecated alias for `np.bool_`.  (Deprecated NumPy 1.24)
+  if not isinstance(terminated, (bool, np.bool8)):
+Step: 1000	Episode: 1	Length: 999	Total reward: -36.31
+Step: 1054	Episode: 2	Length:  53	Total reward: -87.05
+Step: 1103	Episode: 3	Length:  48	Total reward: -92.34
+Step: 1156	Episode: 4	Length:  52	Total reward: -88.75
+Step: 1209	Episode: 5	Length:  52	Total reward: -88.19
+Step: 1269	Episode: 6	Length:  59	Total reward: -87.77
+Step: 1320	Episode: 7	Length:  50	Total reward: -91.75
+Step: 1412	Episode: 8	Length:  91	Total reward: -84.88
+Step: 1497	Episode: 9	Length:  84	Total reward: -90.92
+Step: 1579	Episode: 10	Length:  81	Total reward: -91.54
+==============================================
+Evaluating...
+Episode: 1	Length:  63	Total reward: 12.12
+average score: 12.118518518518542
+==============================================
+Step: 1651	Episode: 11	Length:  71	Total reward: -89.80
+Step: 1724	Episode: 12	Length:  72	Total reward: -89.15
+Step: 1806	Episode: 13	Length:  81	Total reward: -91.81
+Step: 1891	Episode: 14	Length:  84	Total reward: -89.88
+Step: 1972	Episode: 15	Length:  80	Total reward: -91.66
+Step: 2055	Episode: 16	Length:  82	Total reward: -90.59
+Step: 2142	Episode: 17	Length:  86	Total reward: -93.81
+Step: 2218	Episode: 18	Length:  75	Total reward: -91.68
+Step: 2292	Episode: 19	Length:  73	Total reward: -88.78
+Step: 2421	Episode: 20	Length: 128	Total reward: -79.69
+==============================================
+Evaluating...
+Episode: 1	Length:  51	Total reward: 13.88
+average score: 13.883969465648875
+==============================================
+Step: 2482	Episode: 21	Length:  60	Total reward: -89.28
+Step: 2536	Episode: 22	Length:  53	Total reward: -88.12
+Step: 2593	Episode: 23	Length:  56	Total reward: -89.37
+Step: 2647	Episode: 24	Length:  53	Total reward: -86.57
+Step: 2703	Episode: 25	Length:  55	Total reward: -89.37
+Step: 2756	Episode: 26	Length:  52	Total reward: -89.07
+Step: 2811	Episode: 27	Length:  54	Total reward: -87.67
+Step: 2871	Episode: 28	Length:  59	Total reward: -87.78
+Step: 2930	Episode: 29	Length:  58	Total reward: -89.02
+Step: 2985	Episode: 30	Length:  54	Total reward: -87.79
+==============================================
+Evaluating...
+Episode: 1	Length:  50	Total reward: 12.44
+average score: 12.443859649122825
+==============================================
+Step: 3042	Episode: 31	Length:  56	Total reward: -89.04
+Step: 3097	Episode: 32	Length:  54	Total reward: -87.15
+Step: 3151	Episode: 33	Length:  53	Total reward: -89.63
+Step: 3207	Episode: 34	Length:  55	Total reward: -88.55
+Step: 3265	Episode: 35	Length:  57	Total reward: -88.69
+Step: 3321	Episode: 36	Length:  55	Total reward: -90.21
+Step: 3377	Episode: 37	Length:  55	Total reward: -87.51
+Step: 3432	Episode: 38	Length:  54	Total reward: -87.48
+Step: 3488	Episode: 39	Length:  55	Total reward: -88.78
+Step: 3543	Episode: 40	Length:  54	Total reward: -90.20
+==============================================
+Evaluating...
+Episode: 1	Length:  49	Total reward: 10.02
+average score: 10.015015015015033
+==============================================
+Step: 3598	Episode: 41	Length:  54	Total reward: -90.87
+Step: 3654	Episode: 42	Length:  55	Total reward: -88.20
+Step: 3818	Episode: 43	Length: 163	Total reward: -89.09
+Step: 3872	Episode: 44	Length:  53	Total reward: -87.88
+Step: 3928	Episode: 45	Length:  55	Total reward: -89.27
+Step: 3981	Episode: 46	Length:  52	Total reward: -89.48
+Step: 4036	Episode: 47	Length:  54	Total reward: -87.02
+Step: 4090	Episode: 48	Length:  53	Total reward: -87.18
+Step: 4147	Episode: 49	Length:  56	Total reward: -86.14
+Step: 4206	Episode: 50	Length:  58	Total reward: -88.44
+==============================================
+Evaluating...
+Episode: 1	Length:  48	Total reward: 10.16
+average score: 10.16024096385544
+==============================================
+Step: 4262	Episode: 51	Length:  55	Total reward: -89.37
+Step: 4318	Episode: 52	Length:  55	Total reward: -87.83
+Step: 4377	Episode: 53	Length:  58	Total reward: -86.42
+Step: 4431	Episode: 54	Length:  53	Total reward: -90.42
+Step: 4492	Episode: 55	Length:  60	Total reward: -86.54
+Step: 4552	Episode: 56	Length:  59	Total reward: -86.89
+Step: 4609	Episode: 57	Length:  56	Total reward: -88.18
+Step: 4666	Episode: 58	Length:  56	Total reward: -87.99
+Step: 4724	Episode: 59	Length:  57	Total reward: -87.78
+Step: 4785	Episode: 60	Length:  60	Total reward: -89.28
+==============================================
+Evaluating...
+Episode: 1	Length:  48	Total reward: 11.71
+average score: 11.71129568106314
+==============================================
+Step: 4841	Episode: 61	Length:  55	Total reward: -88.78
+Step: 4902	Episode: 62	Length:  60	Total reward: -87.20
+Step: 4959	Episode: 63	Length:  56	Total reward: -87.48
+Step: 5014	Episode: 64	Length:  54	Total reward: -87.73
+Step: 5066	Episode: 65	Length:  51	Total reward: -89.28
+Step: 5121	Episode: 66	Length:  54	Total reward: -87.98
+Step: 5177	Episode: 67	Length:  55	Total reward: -87.83
+Step: 5234	Episode: 68	Length:  56	Total reward: -90.40
+Step: 5291	Episode: 69	Length:  56	Total reward: -87.15
+Step: 5353	Episode: 70	Length:  61	Total reward: -88.18
+==============================================
+Evaluating...
+Episode: 1	Length:  49	Total reward: 13.52
+average score: 13.518518518518537
+==============================================
+Step: 5410	Episode: 71	Length:  56	Total reward: -89.47
+Step: 5473	Episode: 72	Length:  62	Total reward: -86.82
+Step: 5534	Episode: 73	Length:  60	Total reward: -86.08
+Step: 5589	Episode: 74	Length:  54	Total reward: -87.48
+Step: 5650	Episode: 75	Length:  60	Total reward: -88.27
+Step: 5707	Episode: 76	Length:  56	Total reward: -87.01
+Step: 5766	Episode: 77	Length:  58	Total reward: -90.17
+Step: 5826	Episode: 78	Length:  59	Total reward: -89.72
+Step: 5881	Episode: 79	Length:  54	Total reward: -87.54
+Step: 5941	Episode: 80	Length:  59	Total reward: -88.95
+==============================================
+Evaluating...
+Episode: 1	Length:  50	Total reward: 12.20
+average score: 12.201038062283756
+==============================================
+Step: 6000	Episode: 81	Length:  58	Total reward: -90.56
+Step: 6057	Episode: 82	Length:  56	Total reward: -88.54
+Step: 6113	Episode: 83	Length:  55	Total reward: -89.27
+Step: 6168	Episode: 84	Length:  54	Total reward: -88.90
+Step: 6235	Episode: 85	Length:  66	Total reward: -86.76
+Step: 6291	Episode: 86	Length:  55	Total reward: -89.21
+Step: 6348	Episode: 87	Length:  56	Total reward: -88.18
+Step: 6406	Episode: 88	Length:  57	Total reward: -90.64
+Step: 6466	Episode: 89	Length:  59	Total reward: -91.53
+Step: 6523	Episode: 90	Length:  56	Total reward: -89.21
+==============================================
+Evaluating...
+Episode: 1	Length:  54	Total reward: 10.08
+average score: 10.07632398753896
+==============================================
+Step: 6584	Episode: 91	Length:  60	Total reward: -89.66
+Step: 6637	Episode: 92	Length:  52	Total reward: -86.47
+Step: 6692	Episode: 93	Length:  54	Total reward: -87.67
+Step: 6747	Episode: 94	Length:  54	Total reward: -89.68
+Step: 6803	Episode: 95	Length:  55	Total reward: -86.98
+Step: 6857	Episode: 96	Length:  53	Total reward: -90.10
+Step: 6915	Episode: 97	Length:  57	Total reward: -88.98
+Step: 6968	Episode: 98	Length:  52	Total reward: -89.02
+Step: 7025	Episode: 99	Length:  56	Total reward: -89.15
+Step: 7079	Episode: 100	Length:  53	Total reward: -87.25
+==============================================
+Evaluating...
+Episode: 1	Length:  49	Total reward: 12.06
+average score: 12.06484641638227
+==============================================
+Step: 7207	Episode: 101	Length: 127	Total reward: -47.06
+Step: 7282	Episode: 102	Length:  74	Total reward: -79.81
+Step: 7337	Episode: 103	Length:  54	Total reward: -84.27
+Step: 7391	Episode: 104	Length:  53	Total reward: -88.18
+Step: 7448	Episode: 105	Length:  56	Total reward: -90.02
+Step: 7507	Episode: 106	Length:  58	Total reward: -90.17
+Step: 7599	Episode: 107	Length:  91	Total reward: -80.73
+Step: 7665	Episode: 108	Length:  65	Total reward: -85.81
+Step: 7726	Episode: 109	Length:  60	Total reward: -84.95
+Step: 7783	Episode: 110	Length:  56	Total reward: -85.67
+==============================================
+Evaluating...
+Episode: 1	Length:  82	Total reward: 21.50
+average score: 21.501324503311217
+==============================================
+Step: 7894	Episode: 111	Length: 110	Total reward: -79.86
+Step: 8010	Episode: 112	Length: 115	Total reward: -74.83
+Step: 8101	Episode: 113	Length:  90	Total reward: -80.53
+Step: 8220	Episode: 114	Length: 118	Total reward: -70.13
+Step: 8344	Episode: 115	Length: 123	Total reward: -70.05
+Step: 8465	Episode: 116	Length: 120	Total reward: -74.07
+Step: 8560	Episode: 117	Length:  94	Total reward: -76.61
+Step: 8801	Episode: 118	Length: 240	Total reward: -71.20
+Step: 8990	Episode: 119	Length: 188	Total reward: -74.73
+Step: 9094	Episode: 120	Length: 103	Total reward: -67.60
+==============================================
+Evaluating...
+Episode: 1	Length: 103	Total reward: 30.84
+average score: 30.837113402061775
+==============================================
+Step: 9324	Episode: 121	Length: 229	Total reward: -55.48
+Step: 9428	Episode: 122	Length: 103	Total reward: -70.44
+Step: 9562	Episode: 123	Length: 133	Total reward: -69.41
+Step: 9696	Episode: 124	Length: 133	Total reward: -60.07
+Step: 9941	Episode: 125	Length: 244	Total reward: -41.93
+Step: 10130	Episode: 126	Length: 188	Total reward: -32.38
+Step: 10505	Episode: 127	Length: 374	Total reward: -53.22
+Step: 10689	Episode: 128	Length: 183	Total reward: -59.48
+Step: 10858	Episode: 129	Length: 168	Total reward: -44.83
+Step: 11176	Episode: 130	Length: 317	Total reward: -3.23
+==============================================
+Evaluating...
+Episode: 1	Length: 114	Total reward: 41.13
+average score: 41.13157894736835
+==============================================
+Step: 11408	Episode: 131	Length: 231	Total reward: -38.89
+Step: 11695	Episode: 132	Length: 286	Total reward: 16.38
+Step: 11944	Episode: 133	Length: 248	Total reward: -41.47
+Step: 12142	Episode: 134	Length: 197	Total reward: -38.71
+Step: 13142	Episode: 135	Length: 999	Total reward: 304.84
+Step: 14142	Episode: 136	Length: 999	Total reward: 356.38
+Step: 15142	Episode: 137	Length: 999	Total reward: 414.08
+Step: 16142	Episode: 138	Length: 999	Total reward: 316.92
+Step: 17142	Episode: 139	Length: 999	Total reward: 492.89
+Step: 18142	Episode: 140	Length: 999	Total reward: 300.00
+==============================================
+Evaluating...
+Episode: 1	Length: 999	Total reward: 551.47
+average score: 551.4657980455928
+==============================================
+Step: 19142	Episode: 141	Length: 999	Total reward: 421.47
+Step: 19984	Episode: 142	Length: 841	Total reward: 337.64
+Step: 20984	Episode: 143	Length: 999	Total reward: 618.41
+Step: 21806	Episode: 144	Length: 821	Total reward: 376.72
+Step: 22423	Episode: 145	Length: 616	Total reward: 165.86
+Step: 23053	Episode: 146	Length: 629	Total reward: 232.12
+Step: 23165	Episode: 147	Length: 111	Total reward: -85.74
+Step: 23563	Episode: 148	Length: 397	Total reward: 94.83
+Step: 23960	Episode: 149	Length: 396	Total reward: 1.43
+Step: 24415	Episode: 150	Length: 454	Total reward: 116.50
+==============================================
+Evaluating...
+Episode: 1	Length: 302	Total reward: 157.82
+average score: 157.818811881189
+==============================================
+Step: 24726	Episode: 151	Length: 310	Total reward: 36.19
+Step: 25441	Episode: 152	Length: 714	Total reward: 282.45
+Step: 25647	Episode: 153	Length: 205	Total reward: -16.73
+Step: 26239	Episode: 154	Length: 591	Total reward: 245.92
+Step: 26396	Episode: 155	Length: 156	Total reward: -59.85
+Step: 27140	Episode: 156	Length: 743	Total reward: 345.18
+Step: 28140	Episode: 157	Length: 999	Total reward: 618.64
+Step: 29140	Episode: 158	Length: 999	Total reward: 650.00
+Step: 30140	Episode: 159	Length: 999	Total reward: 487.19
+Step: 31078	Episode: 160	Length: 937	Total reward: 454.19
+==============================================
+Evaluating...
+Episode: 1	Length: 996	Total reward: 670.49
+average score: 670.4863354037132
+==============================================
+Step: 32078	Episode: 161	Length: 999	Total reward: 702.16
+Step: 32809	Episode: 162	Length: 730	Total reward: 359.57
+Step: 33809	Episode: 163	Length: 999	Total reward: 556.60
+Step: 34809	Episode: 164	Length: 999	Total reward: 620.85
+Step: 35809	Episode: 165	Length: 999	Total reward: 780.15
+Step: 36809	Episode: 166	Length: 999	Total reward: 542.86
+Step: 37809	Episode: 167	Length: 999	Total reward: 697.51
+Step: 38559	Episode: 168	Length: 749	Total reward: 464.68
+Step: 39196	Episode: 169	Length: 636	Total reward: 299.49
+Step: 39799	Episode: 170	Length: 602	Total reward: 343.53
+==============================================
+Evaluating...
+Episode: 1	Length: 999	Total reward: 694.02
+average score: 694.0199335548061
+==============================================
+Step: 40799	Episode: 171	Length: 999	Total reward: 673.03
+Step: 41510	Episode: 172	Length: 710	Total reward: 441.17
+Step: 42510	Episode: 173	Length: 999	Total reward: 745.61
+Step: 42730	Episode: 174	Length: 219	Total reward: -26.36
+Step: 43730	Episode: 175	Length: 999	Total reward: 860.94
+Step: 44730	Episode: 176	Length: 999	Total reward: 741.75
+Step: 45199	Episode: 177	Length: 468	Total reward: 83.97
+Step: 46175	Episode: 178	Length: 975	Total reward: 605.22
+Step: 47175	Episode: 179	Length: 999	Total reward: 736.30
+Step: 48175	Episode: 180	Length: 999	Total reward: 878.18
+==============================================
+Evaluating...
+Episode: 1	Length: 999	Total reward: 677.40
+average score: 677.3972602739574
+==============================================
+Step: 49175	Episode: 181	Length: 999	Total reward: 627.81
+Step: 49445	Episode: 182	Length: 269	Total reward: 19.28
+Step: 50445	Episode: 183	Length: 999	Total reward: 633.94
+Step: 51445	Episode: 184	Length: 999	Total reward: 888.59
+Step: 52445	Episode: 185	Length: 999	Total reward: 793.69
+Step: 53445	Episode: 186	Length: 999	Total reward: 881.55
+Step: 54445	Episode: 187	Length: 999	Total reward: 880.69
+Step: 55445	Episode: 188	Length: 999	Total reward: 716.90
+Step: 56445	Episode: 189	Length: 999	Total reward: 885.07
+Step: 56777	Episode: 190	Length: 331	Total reward: 122.42
+==============================================
+Evaluating...
+Episode: 1	Length: 505	Total reward: 425.40
+average score: 425.3999999999967
+==============================================
+Step: 57777	Episode: 191	Length: 999	Total reward: 889.47
+Step: 58117	Episode: 192	Length: 339	Total reward: 167.79
+Step: 59117	Episode: 193	Length: 999	Total reward: 893.03
+Step: 60043	Episode: 194	Length: 925	Total reward: 584.57
+Step: 61043	Episode: 195	Length: 999	Total reward: 885.77
+Step: 62043	Episode: 196	Length: 999	Total reward: 892.59
+Step: 63043	Episode: 197	Length: 999	Total reward: 654.60
+Step: 63271	Episode: 198	Length: 227	Total reward: 58.15
+Step: 64271	Episode: 199	Length: 999	Total reward: 853.33
+Step: 65271	Episode: 200	Length: 999	Total reward: 830.23
+==============================================
+Evaluating...
+Episode: 1	Length: 456	Total reward: 381.38
+average score: 381.3833333333317
+==============================================
+Step: 66271	Episode: 201	Length: 999	Total reward: 841.94
+Step: 67271	Episode: 202	Length: 999	Total reward: 896.45
+Step: 68271	Episode: 203	Length: 999	Total reward: 892.57
+Step: 69271	Episode: 204	Length: 999	Total reward: 753.04
+Step: 70271	Episode: 205	Length: 999	Total reward: 801.96
+Step: 71271	Episode: 206	Length: 999	Total reward: 826.15
+Step: 72177	Episode: 207	Length: 905	Total reward: 909.40
+Step: 73177	Episode: 208	Length: 999	Total reward: 896.36
+Step: 74177	Episode: 209	Length: 999	Total reward: 886.39
+Step: 74816	Episode: 210	Length: 638	Total reward: 422.87
+==============================================
+Evaluating...
+Episode: 1	Length: 373	Total reward: 373.25
+average score: 373.2463878326981
+==============================================
+Step: 75218	Episode: 211	Length: 401	Total reward: 207.33
+Step: 75627	Episode: 212	Length: 408	Total reward: 225.21
+Step: 76627	Episode: 213	Length: 999	Total reward: 847.20
+Step: 77627	Episode: 214	Length: 999	Total reward: 884.25
+Step: 78627	Episode: 215	Length: 999	Total reward: 870.87
+Step: 79627	Episode: 216	Length: 999	Total reward: 867.74
+Step: 80627	Episode: 217	Length: 999	Total reward: 877.27
+Step: 81627	Episode: 218	Length: 999	Total reward: 885.35
+Step: 82571	Episode: 219	Length: 943	Total reward: 734.73
+Step: 83571	Episode: 220	Length: 999	Total reward: 843.75
+==============================================
+Evaluating...
+Episode: 1	Length: 390	Total reward: 487.65
+average score: 487.6489711934132
+==============================================
+Step: 84571	Episode: 221	Length: 999	Total reward: 872.51
+Step: 84734	Episode: 222	Length: 162	Total reward: -64.48
+Step: 85734	Episode: 223	Length: 999	Total reward: 882.27
+Step: 86507	Episode: 224	Length: 772	Total reward: 922.70
+Step: 86625	Episode: 225	Length: 117	Total reward: -63.09
+Step: 86815	Episode: 226	Length: 189	Total reward: 39.83
+Step: 87150	Episode: 227	Length: 334	Total reward: 220.55
+Step: 87615	Episode: 228	Length: 464	Total reward: 240.92
+Step: 87820	Episode: 229	Length: 204	Total reward: 32.69
+Step: 88257	Episode: 230	Length: 436	Total reward: 293.70
+==============================================
+Evaluating...
+Episode: 1	Length: 999	Total reward: 870.87
+average score: 870.87378640775
+==============================================
+Step: 88932	Episode: 231	Length: 674	Total reward: 562.05
+Step: 89270	Episode: 232	Length: 337	Total reward: 168.19
+Step: 89444	Episode: 233	Length: 173	Total reward: 48.08
+Step: 89528	Episode: 234	Length:  83	Total reward: -67.03
+Step: 90422	Episode: 235	Length: 893	Total reward: 910.60
+Step: 91038	Episode: 236	Length: 615	Total reward: 624.98
+Step: 91389	Episode: 237	Length: 350	Total reward: 262.11
+Step: 92207	Episode: 238	Length: 817	Total reward: 633.11
+Step: 92909	Episode: 239	Length: 701	Total reward: 705.34
+Step: 93482	Episode: 240	Length: 572	Total reward: 486.13
+==============================================
+Evaluating...
+Episode: 1	Length: 277	Total reward: 320.63
+average score: 320.6320557491285
+==============================================
+Step: 94148	Episode: 241	Length: 665	Total reward: 766.08
+Step: 94442	Episode: 242	Length: 293	Total reward: 222.49
+Step: 94586	Episode: 243	Length: 143	Total reward: 26.92
+Step: 94666	Episode: 244	Length:  79	Total reward: -78.29
+Step: 94846	Episode: 245	Length: 179	Total reward: 23.04
+Step: 95152	Episode: 246	Length: 305	Total reward: 226.90
+Step: 95508	Episode: 247	Length: 355	Total reward: 303.52
+Step: 95765	Episode: 248	Length: 256	Total reward: 86.52
+Step: 96167	Episode: 249	Length: 401	Total reward: 404.62
+Step: 96668	Episode: 250	Length: 500	Total reward: 626.47
+==============================================
+Evaluating...
+Episode: 1	Length: 223	Total reward: 158.20
+average score: 158.20200668896402
+==============================================
+Step: 97001	Episode: 251	Length: 332	Total reward: 304.76
+Step: 97379	Episode: 252	Length: 377	Total reward: 282.50
+Step: 98127	Episode: 253	Length: 747	Total reward: 193.88
+Step: 98354	Episode: 254	Length: 226	Total reward: 184.49
+Step: 98533	Episode: 255	Length: 178	Total reward: 72.20
+Step: 98843	Episode: 256	Length: 309	Total reward: 342.18
+Step: 99077	Episode: 257	Length: 233	Total reward: 109.33
+Step: 99262	Episode: 258	Length: 184	Total reward: 68.22
+Step: 99503	Episode: 259	Length: 240	Total reward: 213.21
+Step: 99784	Episode: 260	Length: 280	Total reward: 211.10
+==============================================
+Evaluating...
+Episode: 1	Length: 270	Total reward: 342.62
+average score: 342.61830985915503
+==============================================
+Step: 100198	Episode: 261	Length: 413	Total reward: 473.76
+Step: 100445	Episode: 262	Length: 246	Total reward: 194.99
+Step: 100607	Episode: 263	Length: 161	Total reward: 65.00
+Step: 100859	Episode: 264	Length: 251	Total reward: 169.02
+Step: 101145	Episode: 265	Length: 285	Total reward: 217.65
+Step: 101400	Episode: 266	Length: 254	Total reward: 218.57
+Step: 101685	Episode: 267	Length: 284	Total reward: 168.24
+Step: 101830	Episode: 268	Length: 144	Total reward: 28.46
+Step: 102055	Episode: 269	Length: 224	Total reward: 153.01
+Step: 102312	Episode: 270	Length: 256	Total reward: 187.50
+==============================================
+Evaluating...
+Episode: 1	Length: 239	Total reward: 277.69
+average score: 277.69491525423723
+==============================================
+Step: 102477	Episode: 271	Length: 164	Total reward: 49.09
+Step: 102723	Episode: 272	Length: 245	Total reward: 154.35
+Step: 103068	Episode: 273	Length: 344	Total reward: 288.42
+Step: 103299	Episode: 274	Length: 230	Total reward: 190.17
+Step: 103635	Episode: 275	Length: 335	Total reward: 205.06
+Step: 103910	Episode: 276	Length: 274	Total reward: 219.27
+Step: 104131	Episode: 277	Length: 220	Total reward: 119.04
+Step: 104413	Episode: 278	Length: 281	Total reward: 164.11
+Step: 104751	Episode: 279	Length: 337	Total reward: 351.92
+Step: 105102	Episode: 280	Length: 350	Total reward: 224.32
+==============================================
+Evaluating...
+Episode: 1	Length: 254	Total reward: 326.22
+average score: 326.2241379310335
+==============================================
+Step: 105409	Episode: 281	Length: 306	Total reward: 96.67
+Step: 105685	Episode: 282	Length: 275	Total reward: 179.46
+Step: 105960	Episode: 283	Length: 274	Total reward: 240.30
+Step: 106174	Episode: 284	Length: 213	Total reward: 146.99
+Step: 106421	Episode: 285	Length: 246	Total reward: 171.08
+Step: 106573	Episode: 286	Length: 151	Total reward: 52.20
+Step: 106809	Episode: 287	Length: 235	Total reward: 144.06
+Step: 107426	Episode: 288	Length: 616	Total reward: 241.28
+Step: 107665	Episode: 289	Length: 238	Total reward: 113.44
+Step: 108017	Episode: 290	Length: 351	Total reward: 386.49
+==============================================
+Evaluating...
+Episode: 1	Length: 350	Total reward: 313.82
+average score: 313.82086330935283
+==============================================
+Step: 108269	Episode: 291	Length: 251	Total reward: 133.80
+Step: 108426	Episode: 292	Length: 156	Total reward: 38.25
+Step: 108738	Episode: 293	Length: 311	Total reward: 245.90
+Step: 109073	Episode: 294	Length: 334	Total reward: 363.27
+Step: 109256	Episode: 295	Length: 182	Total reward: 65.41
+Step: 109431	Episode: 296	Length: 174	Total reward: 71.21
+Step: 109672	Episode: 297	Length: 240	Total reward: 176.97
+Step: 109841	Episode: 298	Length: 168	Total reward: 59.67
+Step: 110020	Episode: 299	Length: 178	Total reward: 76.64
+Step: 110162	Episode: 300	Length: 141	Total reward: 37.90
+==============================================
+Evaluating...
+Episode: 1	Length: 202	Total reward: 200.48
+average score: 200.47922077922155
+==============================================
+Step: 110408	Episode: 301	Length: 245	Total reward: 110.47
+Step: 110693	Episode: 302	Length: 284	Total reward: 249.53
+Step: 110862	Episode: 303	Length: 168	Total reward: 60.12
+Step: 111007	Episode: 304	Length: 144	Total reward: 51.62
+Step: 111392	Episode: 305	Length: 384	Total reward: 418.65
+Step: 111951	Episode: 306	Length: 558	Total reward: 787.38
+Step: 112108	Episode: 307	Length: 156	Total reward: 77.31
+Step: 112409	Episode: 308	Length: 300	Total reward: 282.19
+Step: 112813	Episode: 309	Length: 403	Total reward: 336.04
+Step: 113108	Episode: 310	Length: 294	Total reward: 301.20
+==============================================
+Evaluating...
+Episode: 1	Length: 322	Total reward: 414.13
+average score: 414.1285714285689
+==============================================
+Step: 113407	Episode: 311	Length: 298	Total reward: 301.30
+Step: 113671	Episode: 312	Length: 263	Total reward: 137.85
+Step: 114006	Episode: 313	Length: 334	Total reward: 346.60
+Step: 114248	Episode: 314	Length: 241	Total reward: 129.11
+Step: 114540	Episode: 315	Length: 291	Total reward: 272.28
+Step: 114820	Episode: 316	Length: 279	Total reward: 206.55
+Step: 115096	Episode: 317	Length: 275	Total reward: 181.11
+Step: 115463	Episode: 318	Length: 366	Total reward: 477.30
+Step: 115772	Episode: 319	Length: 308	Total reward: 308.92
+Step: 115945	Episode: 320	Length: 172	Total reward: 36.89
+==============================================
+Evaluating...
+Episode: 1	Length: 262	Total reward: 326.05
+average score: 326.0489932885903
+==============================================
+Step: 116088	Episode: 321	Length: 142	Total reward: -0.01
+Step: 116316	Episode: 322	Length: 227	Total reward: 126.47
+Step: 116594	Episode: 323	Length: 277	Total reward: 236.85
+Step: 117243	Episode: 324	Length: 648	Total reward: 751.50
+Step: 117414	Episode: 325	Length: 170	Total reward: 80.03
+Step: 117583	Episode: 326	Length: 168	Total reward: 5.58
+Step: 118238	Episode: 327	Length: 654	Total reward: 759.00
+Step: 118537	Episode: 328	Length: 298	Total reward: 242.44
+Step: 119061	Episode: 329	Length: 523	Total reward: 581.03
+Step: 119395	Episode: 330	Length: 333	Total reward: 240.87
+==============================================
+Evaluating...
+Episode: 1	Length: 116	Total reward: 75.65
+average score: 75.6493975903615
+==============================================
+Step: 119569	Episode: 331	Length: 173	Total reward: 40.79
+Step: 119931	Episode: 332	Length: 361	Total reward: 304.03
+Step: 120299	Episode: 333	Length: 367	Total reward: 314.40
+Step: 120622	Episode: 334	Length: 322	Total reward: 303.34
+Step: 120873	Episode: 335	Length: 250	Total reward: 189.57
+Step: 121262	Episode: 336	Length: 388	Total reward: 478.22
+Step: 121531	Episode: 337	Length: 268	Total reward: 208.75
+Step: 121764	Episode: 338	Length: 232	Total reward: 178.49
+Step: 121989	Episode: 339	Length: 224	Total reward: 121.58
+Step: 122289	Episode: 340	Length: 299	Total reward: 265.37
+==============================================
+Evaluating...
+Episode: 1	Length: 418	Total reward: 568.10
+average score: 568.0999999999956
+==============================================
+Step: 122664	Episode: 341	Length: 374	Total reward: 302.73
+Step: 123018	Episode: 342	Length: 353	Total reward: 327.00
+Step: 123316	Episode: 343	Length: 297	Total reward: 232.43
+Step: 123461	Episode: 344	Length: 144	Total reward: 6.29
+Step: 123585	Episode: 345	Length: 123	Total reward: -0.39
+Step: 123941	Episode: 346	Length: 355	Total reward: 406.62
+Step: 124196	Episode: 347	Length: 254	Total reward: 235.02
+Step: 124333	Episode: 348	Length: 136	Total reward: 0.69
+Step: 124605	Episode: 349	Length: 271	Total reward: 212.29
+Step: 124865	Episode: 350	Length: 259	Total reward: 221.93
+==============================================
+Evaluating...
+Episode: 1	Length: 487	Total reward: 921.66
+average score: 921.6641350210931
+==============================================
+Step: 125041	Episode: 351	Length: 175	Total reward: 59.97
+Step: 125355	Episode: 352	Length: 313	Total reward: 277.65
+Step: 125677	Episode: 353	Length: 321	Total reward: 267.15
+Step: 126227	Episode: 354	Length: 549	Total reward: 637.62
+Step: 126558	Episode: 355	Length: 330	Total reward: 282.58
+Step: 127187	Episode: 356	Length: 628	Total reward: 732.67
+Step: 127355	Episode: 357	Length: 167	Total reward: 55.60
+Step: 127611	Episode: 358	Length: 255	Total reward: 222.33
+Step: 127778	Episode: 359	Length: 166	Total reward: 23.22
+Step: 128084	Episode: 360	Length: 305	Total reward: 168.54
+==============================================
+Evaluating...
+Episode: 1	Length: 606	Total reward: 805.97
+average score: 805.9666666666567
+==============================================
+Step: 128549	Episode: 361	Length: 464	Total reward: 489.38
+Step: 128765	Episode: 362	Length: 215	Total reward: 104.02
+Step: 129244	Episode: 363	Length: 478	Total reward: 417.89
+Step: 129399	Episode: 364	Length: 154	Total reward: 25.54
+Step: 129714	Episode: 365	Length: 314	Total reward: 296.70
+Step: 129877	Episode: 366	Length: 162	Total reward: 33.80
+Step: 130171	Episode: 367	Length: 293	Total reward: 210.51
+Step: 130435	Episode: 368	Length: 263	Total reward: 213.63
+Step: 130710	Episode: 369	Length: 274	Total reward: 193.35
+Step: 131292	Episode: 370	Length: 581	Total reward: 723.38
+==============================================
+Evaluating...
+Episode: 1	Length: 379	Total reward: 494.61
+average score: 494.6086956521718
+==============================================
+Step: 131479	Episode: 371	Length: 186	Total reward: 78.07
+Step: 131896	Episode: 372	Length: 416	Total reward: 374.53
+Step: 132244	Episode: 373	Length: 347	Total reward: 317.45
+Step: 132363	Episode: 374	Length: 118	Total reward: -16.56
+Step: 132649	Episode: 375	Length: 285	Total reward: 274.89
+Step: 132991	Episode: 376	Length: 341	Total reward: 340.16
+Step: 133334	Episode: 377	Length: 342	Total reward: 328.06
+Step: 133903	Episode: 378	Length: 568	Total reward: 772.89
+Step: 134267	Episode: 379	Length: 363	Total reward: 370.69
+Step: 134446	Episode: 380	Length: 178	Total reward: 95.38
+==============================================
+Evaluating...
+Episode: 1	Length: 390	Total reward: 276.53
+average score: 276.52500000000066
+==============================================
+Step: 134739	Episode: 381	Length: 292	Total reward: 225.43
+Step: 135178	Episode: 382	Length: 438	Total reward: 388.11
+Step: 135701	Episode: 383	Length: 522	Total reward: 472.80
+Step: 136286	Episode: 384	Length: 584	Total reward: 548.74
+Step: 136440	Episode: 385	Length: 153	Total reward: 35.08
+Step: 136592	Episode: 386	Length: 151	Total reward: 25.93
+Step: 136846	Episode: 387	Length: 253	Total reward: 187.63
+Step: 137452	Episode: 388	Length: 605	Total reward: 738.45
+Step: 137711	Episode: 389	Length: 258	Total reward: 141.05
+Step: 137874	Episode: 390	Length: 162	Total reward: 78.72
+==============================================
+Evaluating...
+Episode: 1	Length: 622	Total reward: 626.01
+average score: 626.0116883116799
+==============================================
+Step: 138200	Episode: 391	Length: 325	Total reward: 285.01
+Step: 138614	Episode: 392	Length: 413	Total reward: 395.03
+Step: 138963	Episode: 393	Length: 348	Total reward: -53.81
+Step: 139325	Episode: 394	Length: 361	Total reward: 264.54
+Step: 139573	Episode: 395	Length: 247	Total reward: 168.06
+Step: 139742	Episode: 396	Length: 168	Total reward: 34.33
+Step: 140072	Episode: 397	Length: 329	Total reward: 399.92
+Step: 140399	Episode: 398	Length: 326	Total reward: 282.89
+Step: 140663	Episode: 399	Length: 263	Total reward: 207.03
+Step: 140717	Episode: 400	Length:  53	Total reward: -83.72
+==============================================
+Evaluating...
+Episode: 1	Length: 139	Total reward: 110.11
+average score: 110.11347517730526
+==============================================
